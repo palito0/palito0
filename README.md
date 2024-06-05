@@ -1,16 +1,15 @@
-## Hi there 👋
+## boas vindas ao meu perfil 🪑
 
-<!--
-**palito0/palito0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Luiz Otavio
 
-Here are some ideas to get you started:
+- leio - estudo matematica - **durmo**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+##você pode entrar em contato comigo 📧
+
+salvadorluisotavio485@gmail.com
+
+![](https://media1.tenor.com/m/cwoN93BINOMAAAAC/so-good-wink.gif)
+
+![](https://media1.tenor.com/m/NSU4UL9zhsMAAAAC/tue-mais-quats.gif)
